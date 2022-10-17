@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/furniture/static/css/main.b2adc16f.css",
+    "main.js": "/furniture/static/js/main.b466fd2a.js",
+    "static/js/787.6e7f6ceb.chunk.js": "/furniture/static/js/787.6e7f6ceb.chunk.js",
+    "index.html": "/furniture/index.html",
+    "main.b2adc16f.css.map": "/furniture/static/css/main.b2adc16f.css.map",
+    "main.b466fd2a.js.map": "/furniture/static/js/main.b466fd2a.js.map",
+    "787.6e7f6ceb.chunk.js.map": "/furniture/static/js/787.6e7f6ceb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2adc16f.css",
+    "static/js/main.b466fd2a.js"
+  ]
+}
